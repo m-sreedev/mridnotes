@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+<h2>Phrases</h2>
+
+- [Korvais](www.m-sreedev.github.io/mridnotes/korvais)
+- [Muthayipps](www.m-sreedev.github.io/mridnotes/muthayipps)
+- [Mohras](www.m-sreedev.github.io/mridnotes/mohras)
+- [Pharans](www.m-sreedev.github.io/mridnotes/pharans)
+- [Korapps](www.m-sreedev.github.io/mridnotes/korapps)
