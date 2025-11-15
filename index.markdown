@@ -12,7 +12,7 @@ show.title : false
   <div  class = "item">    
     <h2>Phrases</h2>
       <ul style="font-size: 18px; line-height: 1.6;">
-        <li><a href="{{ site.baseurl }}/docs/korvais/intro/">Korvais</a></li>
+        <li><a href="/docs/korvais/intro/">Korvais</a></li>
         <li><a href="{{ site.baseurl }}/docs/muthayippus/intro/">Muthayippus</a></li>
         <li><a href="{{ site.baseurl }}/docs/mohras/intro/">Mohras</a></li>
         <li><a href="{{ site.baseurl }}/pharans/">Pharans</a></li>
