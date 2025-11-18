@@ -7,7 +7,7 @@ title: Korappus
 <hr> 
 <p style = "line-height: 1.5;">
 
-Korappus are  sorted by  their <a href = "{{site.baseurl}}/docs/theory/phrases/matra/"> Matras </a> for organization purposes.
+Korappus are  sorted by  their <a href = "{{ '/docs/theory/phrases/matra' | relative_url}}"> Matras </a> for organization purposes.
 </p>
 
 <p> 
@@ -20,8 +20,8 @@ Credits are given to the people from whom I had heard the piece for the first ti
 <div style="font-size: 20px;">
   <table  style="border-color: lightgray; border-radius: 10px; width:fit-content; border-spacing: 1cm; border-collapse: separate;">
     <tr>
-      <td><a href = "{{ site.baseurl }}/docs/korapps/56/1/">56</a></td>
-      <td><a href = "{{ site.baseurl }}/docs/korapps/56/1/">63</a></td>
+      <td><a href = "{{ '/docs/korapps/56/1/' | relative_url }}">56</a></td>
+      <td><a href = "{{ '/docs/korapps/63/1/' | relative_url }}">63</a></td>
     </tr>
   </table>
 </div>

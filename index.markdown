@@ -13,10 +13,10 @@ show.title : false
     <h2>Phrases</h2>
       <ul style="font-size: 18px; line-height: 1.6;">
         <li><a href="{{ '/docs/korvais/intro' | relative_url }}">Korvais</a></li>
-        <li><a href="{{ site.baseurl }}/docs/muthayippus/intro/">Muthayippus</a></li>
-        <li><a href="{{ site.baseurl }}/docs/mohras/intro/">Mohras</a></li>
-        <li><a href="{{ site.baseurl }}/pharans/">Pharans</a></li>
-        <li><a href="{{ site.baseurl }}/docs/korapps/intro/">Korappus</a></li>
+        <li><a href="{{ '/docs/muthayippus/intro' | relative_url }}">Muthayippus</a></li>
+        <li><a href="{{ '/docs/mohras/intro' | relative_url }}">Mohras</a></li>
+        <li><a href="{{ '/docs/pharans/intro' | relative_url }}">Pharans</a></li>
+        <li><a href="{{ '/docs/korapps/intro' | relative_url }}">Korappus</a></li>
       </ul>
   </div>
 
@@ -24,8 +24,8 @@ show.title : false
   <div class = "item">    
     <h2>Theory</h2>
       <ul style="font-size: 18px; line-height: 1.6;">
-        <li><a href="#"> Legend & Origins</a></li>
-        <li><a href="{{ site.baseurl }}/docs/theory/phrases/intro/"> Theory of Phrases </a></li>
+        <li><a href="{{ '/docs/theory/legend/intro' | relative_url }}"> Legend & Origins</a></li>
+        <li><a href="{{ '/docs/theory/phrases/intro' | relative_url }}"> Theory of Phrases </a></li>
       </ul>
   </div>
 
